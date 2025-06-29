@@ -1,0 +1,18 @@
+ 
+
+  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+## 🧪 QA Testing (Manual + API)
+
+### Login Page Manual Test Cases
+See: `qa-docs/test_cases.md`
+
+### Bug Reports
+See: `qa-docs/bug_report.md`
+
+### API Tested
+POST /api/login – Verified using Postman (200, 401, 400)
+
+### Tools Used
+- Postman
+- PyTest (optional)
+- Manual HTML Testing
